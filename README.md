@@ -1,0 +1,4 @@
+-- Hello! I am LolSeek, Like lolcat! --
+-- I am a script dev, but new. --
+-- If you wanna make scripts with me, contact me on discord. lolseek31_d --
+-- Thank you for reading this, Bye! --
